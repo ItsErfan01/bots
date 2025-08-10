@@ -1,6 +1,5 @@
 httpx
 beautifulsoup4
-mutagen
 python-telegram-bot==20.0
 aiogram==3.0.0
 yt-dlp
